@@ -106,6 +106,10 @@ function onShopClick() {
 window.location.href='https://free.cloudcodehosting.site'
 }
 
+function onDisocrdClick() {
+window.location.href='https://discord.gg/cloudcode'
+}
+
 function onPanelClick() {
 window.location.href='https://panel.cloudcodehosting.site'
 }
