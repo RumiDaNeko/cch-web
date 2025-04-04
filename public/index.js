@@ -103,7 +103,7 @@ function onLoad() {
       setTimeout(removeLoader, 2500); //wait for page load PLUS two seconds.
 }
 function onShopClick() {
-window.location.href='https://client.cloudcodehosting.site?ref=cloudcode'
+window.location.href='https://free.cloudcodehosting.site'
 }
 
 function onPanelClick() {
